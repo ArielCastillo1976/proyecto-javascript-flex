@@ -1,7 +1,7 @@
 console.log("Estamos conectados...");
 
 
-Alert('Bienvenidos a Clínica Salud Total - Servicios Médicos');
+alert('Bienvenidos a Clínica Salud Total - Servicios Médicos');
 
 function solicitarContraseña() {
     const password = prompt("Ingresa tu contraseña:");
